@@ -1,0 +1,58 @@
+{
+  "slug": "drishya-catering-and-event-management-ranni",
+  "name": "Drishya Catering & Event Management",
+  "shortName": "Drishya",
+  "descriptor": "Catering & Events",
+  "address": "Pulloopuram Po Varavoor Ranni Kottayam Pathanamthitta Thiruvalla, Ranni, Keralam 689674",
+  "area": "Pulloopuram",
+  "city": "Ranni",
+  "district": "Pathanamthitta",
+  "region": "Kerala",
+  "postalCode": "689674",
+  "geo": {
+    "lat": 9.3629865,
+    "lng": 76.77160669999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=14604498174140790296",
+  "phone": "+91 82810 64501",
+  "whatsapp": "918281064501",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 4.9,
+  "reviewCount": 19,
+  "reviews": [
+    {
+      "name": "Sidd",
+      "rating": 5,
+      "quote": "An absolutely wonderful experience! I would say these guys are seriously underrated and deserve far more recognition. First of all, the way Mr. Tom deals with customers deserves special mention. He is extremely humble, welcoming, and patient."
+    },
+    {
+      "name": "Shane abraham kurian",
+      "rating": 5,
+      "quote": "I had a wonderful experience with Toms Catering and Events. The food was delicious, fresh, and beautifully presented. Every dish was prepared with great attention to taste and quality, and our guests were highly impressed. The team was professional, courteous, and well-organized from start to finish."
+    },
+    {
+      "name": "Sona Jose",
+      "rating": 5,
+      "quote": "We used Tom’s catering service for our daughter 1st Holy Communion celebration and were extremely pleased with the experience. The food was delicious and enjoyed by all our guests. The staff were friendly, and helped make the event run smoothly. We would highly recommend their services for any special occasion."
+    },
+    {
+      "name": "Shabin Joseph Kurian",
+      "rating": 5,
+      "quote": "\"Excellent service and delicious food! Tom's Catering was professional, punctual, and made our event stress-free. The guests loved the variety and quality of the food. Highly recommended!\""
+    },
+    {
+      "name": "Melvin moncy",
+      "rating": 5,
+      "quote": "Excellent food, great taste, and outstanding service! Everything was fresh, well-organized, and served on time. Our guests loved the food, and the entire experience was hassle-free. Highly recommended!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://drishya-catering-and-event-manageme.vercel.app"
+}
